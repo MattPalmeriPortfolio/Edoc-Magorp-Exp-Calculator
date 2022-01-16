@@ -13,7 +13,8 @@ Contents
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 3. Project 14.
-Program determines the proper sequence a player should take to get maximum experience from evolving edocs, from input # of edocs and # of candies. Demonstrates ability to prompt user, take input, execute math formulas to calculate the greatest possible amount experience possible given an amount of edoc and magorp, and output results in c++.
+A theoretical calculator for a game in which a player may use "candies" to evolve "edocs" into "margorps". Calculation complexity comes from two factors: 1) edocs and margorps may both be transferred for candy at a 1:1 ratio; 2) evolving an edoc provides one candy.
+Demonstrates knowledge of complex flow control managing multiple variables, creation of complex formulas taking multiple parameters, and usage of input/output streams.
 
 Written using Microsoft Visual Studio. 
 
